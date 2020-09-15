@@ -2,11 +2,11 @@ Projet 6
 
 SO PEKOCKO
 
-Environment
+ENVIRONMENT
 
 This API has been developed with NodeJS, Express v4.17.1 and MongoDB
 
-Prerequisites
+PREREQUISITES
 
 You will need to have :
 
@@ -16,7 +16,7 @@ npm
 
 Atlas MongoDB account
 
-Installation
+INSTALLATION
 
 Clone this repository.
 
@@ -25,3 +25,7 @@ Clone the repository of front-end : https://github.com/OpenClassrooms-Student-Ce
 Run npm install
 
 Run node server, the server should run on localhost with default port 3000 and you should read Listening on port 3000 and Connexion à MongoDB réussie in the console
+
+AUTHOR
+
+Chrismaëlle Henry
